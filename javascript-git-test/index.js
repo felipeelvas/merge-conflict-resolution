@@ -2,6 +2,6 @@ const soma = (a, b ) => a + b;
 
 const multiplica = (a, b) => a * b;
 
-console.log(soma(2,5))
+console.log(somahkjhkhkj(2,5))
 
-console.log(multiplica(3, 7))
+console.log(multiplica]jçhçhlk(3, 7))
