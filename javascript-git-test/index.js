@@ -1,9 +1,6 @@
-const soma = (a, b ) => a + b;
-
-const multiplica = (a, b) => a * b;
-
 const main = () => {
-console.log(somaUmMaisUm())
-console.log(multiplicaDoisVezesUm())
+console.log(1 + 1)
+console.log(2 * 1)
 }
+
 main()
