@@ -1,7 +1,7 @@
-const somaUmMaisUm = ( ) => 1 + 1;
+const soma = (a, b ) => a + b;
 
-const multiplicaDoisVezesUm = () => 2 * 1;
+const multiplica = (a, b) => a * b;
 
-console.log(somaUmMaisUm())
+console.log(soma(2,5))
 
-console.log(multiplicaDoisVezesUm())
+console.log(multiplica(3, 7))
