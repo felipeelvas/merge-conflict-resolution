@@ -7,3 +7,7 @@ console.log(soma())
 console.log(multiplica(2,3))
 }
 main()
+
+console.log(soma(2,5))
+
+console.log(multiplica(3, 7))
